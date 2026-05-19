@@ -1,0 +1,13 @@
+# OS junk
+.DS_Store
+Thumbs.db
+*.tmp
+*.swp
+
+# Never commit secrets or private keys
+*.pem
+*.key
+*.env
+.env*
+secrets/
+private/
